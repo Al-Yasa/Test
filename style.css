@@ -1,0 +1,9 @@
+.text-center {text-align: center}
+
+p {
+    font-size: 30px;
+    background: antiquewhite;
+    padding: 20px 15px;
+    line-height: 2;
+    margin: 50px 0 50px
+}
